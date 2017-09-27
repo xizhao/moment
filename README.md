@@ -1,4 +1,5 @@
 [![Join the chat at https://gitter.im/moment/moment](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/moment/moment?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fxizhao%2Fmoment.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fxizhao%2Fmoment?ref=badge_shield)
 
 [![NPM version][npm-version-image]][npm-url] [![NPM downloads][npm-downloads-image]][npm-url] [![MIT License][license-image]][license-url] [![Build Status][travis-image]][travis-url]
 [![Coverage Status](https://coveralls.io/repos/moment/moment/badge.svg?branch=develop)](https://coveralls.io/r/moment/moment?branch=develop)
@@ -56,3 +57,6 @@ Moment.js is freely distributable under the terms of the [MIT license](https://g
 
 [travis-url]: http://travis-ci.org/moment/moment
 [travis-image]: http://img.shields.io/travis/moment/moment/develop.svg?style=flat
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fxizhao%2Fmoment.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fxizhao%2Fmoment?ref=badge_large)
